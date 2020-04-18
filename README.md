@@ -10,6 +10,7 @@ Nesta aula foram apresentados algumas funções e classes básicas do Bootstrap.
 - Importação dos arquivos obrigatórios para funcionamento do Bootstrap
 - Inserção e formatação de imagens
 - Formatação de fontes
+- CSS: Criação de classes e personalização das classes padrões
 
 # Adicional pessoal
 Por já conhecer e utilizar o Booststrap personalizaei e incluí algumas funções e ações no arquivo que não foram apresentados nessa aula como:

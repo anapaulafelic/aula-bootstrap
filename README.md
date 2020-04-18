@@ -1,8 +1,9 @@
-# Curso Digital Innovation One - Bootcamp Code Like a FullStack Girl
+# Bootcamp Code Like a FullStack Girl
+#####################################
 
 # Aula Boostrap
-Aula Digital Innovation One - Bootstrap
-Nesta aula foram apresentados algumas funções e classes básicas do Bootstrap.
+Aula Digital Innovation One
+Nesta aula foram apresentadas algumas funções e classes básicas do Bootstrap.
 
 # O que foi apresentando
 - Estrutura básica (div, nav, section)
@@ -30,5 +31,8 @@ Um site legal para copiar código de cores quando estamos com pressa. Achei prá
 O professor utilizou um <selection></selection> como uma section.
 Nunca tinha visto esse item, pesquisei no Google mas não encontrei nada ainda.
 Vou pesquisar sobre e mandar um e-mail para ele pedindo uma orientação.
+
+# aaaaaaaaaahhhh
+Errei o texto do commit, estou apanhando para corrigir \0/
 
 

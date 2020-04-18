@@ -28,7 +28,7 @@ Um site legal para copiar código de cores quando estamos com pressa. Achei prá
 - Images from Pexels: https://www.pexels.com
 
 # Dúvida!!!
-O professor utilizou um <selection></selection> como uma section.
+O professor utilizou um < selection >< /selection > como uma section.
 Nunca tinha visto esse item, pesquisei no Google mas não encontrei nada ainda.
 Vou pesquisar sobre e mandar um e-mail para ele pedindo uma orientação.
 

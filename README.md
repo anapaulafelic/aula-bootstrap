@@ -1,5 +1,5 @@
 # Bootcamp Code Like a FullStack Girl
-#####################################
+![1_BpQLTWqv3vrOIfahdvt8vA](https://user-images.githubusercontent.com/54913406/91230559-1ff01500-e702-11ea-9241-7d4a53539240.jpeg)
 
 # Aula Boostrap
 Aula Digital Innovation One
